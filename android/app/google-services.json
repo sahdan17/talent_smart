@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1095217244964",
+    "firebase_url": "https://talent-smart-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "talent-smart",
+    "storage_bucket": "talent-smart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095217244964:android:07dd1495982bfcfbe8a1b1",
+        "android_client_info": {
+          "package_name": "com.example.talent_smart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnV1IdgkgzYIse5I8hsD3kEgnQ6Pltnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
